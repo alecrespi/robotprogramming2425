@@ -1,0 +1,110 @@
+[
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/blob.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/blob.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/blob.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/blob.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/deserializer.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/deserializer.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/deserializer.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/deserializer.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/id_context.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/id_context.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/id_context.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/id_context.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/id_placeholder.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/id_placeholder.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/id_placeholder.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/id_placeholder.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/identifiable.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/identifiable.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/identifiable.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/identifiable.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/object_data.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/object_data.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/object_data.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/object_data.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/property.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/property.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/property.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/property.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/property_container.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/property_container.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/property_container.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/property_container.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/property_container_manager.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/property_container_manager.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/property_container_manager.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/property_container_manager.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/property_eigen.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/property_eigen.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/property_eigen.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/property_eigen.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/property_identifiable.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/property_identifiable.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/property_identifiable.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/property_identifiable.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/serializable.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/serializable.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/serializable.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/serializable.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/serialization_context.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/serialization_context.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/serialization_context.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/serialization_context.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/utils/serializer.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/serializer.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/utils/serializer.cpp",
+  "output": "src/CMakeFiles/core_library.dir/utils/serializer.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/messages/base_sensor_message.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/messages/base_sensor_message.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/messages/base_sensor_message.cpp",
+  "output": "src/CMakeFiles/core_library.dir/messages/base_sensor_message.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/messages/odometry_message.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/messages/odometry_message.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/messages/odometry_message.cpp",
+  "output": "src/CMakeFiles/core_library.dir/messages/odometry_message.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -Dcore_library_EXPORTS -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -o src/CMakeFiles/core_library.dir/messages/pose_message.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/messages/pose_message.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/messages/pose_message.cpp",
+  "output": "src/CMakeFiles/core_library.dir/messages/pose_message.cpp.o"
+},
+{
+  "directory": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -I/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/src/. -isystem /opt/homebrew/include/eigen3 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -o executables/CMakeFiles/main.dir/many_object_in_stack_example.cpp.o -c /Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/executables/many_object_in_stack_example.cpp",
+  "file": "/Users/alessandro/Projects/SAPIENZA/robotprog/robotprogramming_2024_25/exercises/rp_01_compilers_and_build_systems/executables/many_object_in_stack_example.cpp",
+  "output": "executables/CMakeFiles/main.dir/many_object_in_stack_example.cpp.o"
+}
+]
